@@ -1,2 +1,3 @@
 mysql:8.0.27
 nacos/nacos-server:v2.2.1
+apache/seata-server:1.7.0
